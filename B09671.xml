@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas the appointment, ordering, and government of all carriers of what kind forever, trading to or with the University and citty of Oxford does of right belong and appertain to the chancellor, masters, and scholars of the said University by their charters, priviledges, and customes ...</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09671</idno>
+            <idno type="STC">Wing O992F</idno>
+            <idno type="STC">ESTC R181307</idno>
+            <idno type="EEBO-CITATION">62369577</idno>
+            <idno type="OCLC">ocm 62369577</idno>
+            <idno type="VID">188076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188076)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2854:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas the appointment, ordering, and government of all carriers of what kind forever, trading to or with the University and citty of Oxford does of right belong and appertain to the chancellor, masters, and scholars of the said University by their charters, priviledges, and customes ...</title>
+                  <author>University of Oxford.</author>
+                  <author>Fell, John, 1625-1686.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Ap 5, 1669]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from the first five lines of text.</note>
+                  <note>Signed: John Fell, vicechancellor.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford --  History --  Early works to 1800.</term>
+               <term>Coaching (Transportation) --  England --  Oxford --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="order">
+            <pb facs="tcp:188076:1" rendition="simple:additions"/>
+            <p>WHEREAS the Appointment, Ordering, and Govern<g ref="char:EOLhyphen"/>ment of all Carriers of what kind ſoever, Trading to or with the Univerſity and Citty of <hi>Oxford,</hi> does of Right be<g ref="char:EOLhyphen"/>long and appertain to the Chancellor, Maſters, and Scholars of the ſaid Univerſity, by their Charters, Priviledges, and Cuſtomes: the ſaid Carriers to be Ordered and Governed by ſuch Rules as ſhall be limi<g ref="char:EOLhyphen"/>ted and preſcribed by the Chancellor, Priviledges, and Cuſtomes: the ſaid Carriers to be Ordered and Governed by ſuch Rules as ſhall be limi<g ref="char:EOLhyphen"/>ted and preſcribed by the Chancellor of the ſaid Univerſity, or his de<g ref="char:EOLhyphen"/>puty for the time being. AND whereas <hi>Thomas Moore</hi> and <hi>Robert Stonehill</hi> Licenſed Carriers of the ſaid Univerſity, have under<g ref="char:EOLhyphen"/>taken to provide ſufficient Coaches and Horſes for the Conveiance of Paſſengers between the ſaid Univerſity and the Citty of <hi>London,</hi> which ſhall in one day Commodiouſly perform the whole Journey during the Summer half year, (that is to ſay) from the Twenty ſixth day of <hi>A<g ref="char:EOLhyphen"/>pril,</hi> being the Munday next before <hi>Easter Terme,</hi> to <hi>Michaelmas</hi> enſuing; for the better regulating of the ſaid Carriers, and Securing the Conve<g ref="char:EOLhyphen"/>nience of all Paſſengers who ſhall happen to go with them, It is Orde<g ref="char:EOLhyphen"/>red by the <hi>Vice-Chancellor</hi> of the Univerſity aforeſaid, as followeth.</p>
+            <list>
+               <item>1. That the Carriers aforeſaid ſhall not demand above Twelve ſhillings for the conveiance of each Paſſenger.</item>
+               <item>2. That they, the ſaid Carriers, ſhall carry without expectation of farther reward, the neceſſaries of each Paſſenger, their ſeverall fardles not being incommodious in their Bulk, and not exceeding ſix pound in weight.</item>
+               <item>3. That they, the ſaid Carriers, ſhall not upon pretence of expecta<g ref="char:EOLhyphen"/>tion of Paſſengers, or any other ſuggeſtion, delay the time of their ſetting out; But before ſix of the clock in the Morning, be ready over againſt <hi>Alſouls Colledge</hi> in <hi>Oxford,</hi> and the ſigne of the Greyhound in <hi>Holborne</hi> in <hi>London;</hi> and Immediatly upon the ſtriking of the Clock of S<hi rend="sup">t</hi> 
+                  <hi>Maries</hi> in <hi>Oxford,</hi> and S<hi rend="sup">t</hi> 
+                  <hi>Andrews Holborn London</hi> begin their Journey.</item>
+               <item>4. That the ſaid Carriers ſhall both at <hi>Oxford</hi> &amp; <hi>London</hi> keep a Book for the Entry of Names of the Paſſengers, and the receipt of the twelve ſhillings which ſhall be laid down upon the entry of their names, and ſhall be reſponſible for the fraud or negligence which ſhall happen either by themſelves or Servants in the aforeſaid particulars.</item>
+               <item>5. That the ſaid Carriers ſhall conſtantly keep their weekely ſtages, that is to ſay, every Munday, Wedneſday, and Friday depart from <hi>Oxford,</hi> and Tueſday, Thurday and Saturday returne homeward from <hi>London.</hi>
+               </item>
+               <item>6. That the ſaid Carriers ſhall not take upon them to diſpoſe of pla<g ref="char:EOLhyphen"/>ces in their coach, but ſhall permit all perſons to be ſeated according to their priority, in taking of their ſeats, &amp; their reſpective condition.</item>
+               <item>7. That the aforeſaid Orders and Rules ſhall not be interpreted to limit or concern thoſe coaches, which ſhall as formely perform their Journey in part of two days.</item>
+            </list>
+            <closer>
+               <signed>JOHN FELL Vicechancellor.</signed>
+               <dateline>
+                  <date>
+                     <hi>Ap:</hi> 5. 1669.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
